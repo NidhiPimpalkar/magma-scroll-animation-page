@@ -186,10 +186,6 @@ This appears to be a portfolio/educational project. If you'd like to contribute:
 3. Add new features or sections
 4. Optimize for mobile devices
 
-## 📞 Contact
-
-For questions about Magma platform, visit [thisismagma.com](https://thisismagma.com)
-
 ---
 
 **Last Updated**: 2025
