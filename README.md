@@ -1,6 +1,8 @@
 # Magma - Web3 Real Estate Platform Landing Page
 
 
+Refer to Preview Image below -
+
 ![Magma Preview](assets/images/preview.png)
 
 
