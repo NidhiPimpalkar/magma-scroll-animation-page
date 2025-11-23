@@ -1,5 +1,9 @@
 # Magma - Web3 Real Estate Platform Landing Page
 
+
+![Magma Preview](assets/images/preview.png)
+
+
 A modern, interactive single-page website for Magma - a Web3 platform that creates Digital Twin Tokens (DTT®) for real estate buildings. Features smooth scrolling animations, canvas-based image sequences, and a stunning visual experience.
 
 ## 🚀 Features
